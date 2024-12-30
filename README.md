@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/etony27" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="etony27" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniel-velarde-cupe-64314b163/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="danielvelarde/" height="30" width="40" /></a>
 </p>
 
