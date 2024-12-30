@@ -1,15 +1,3 @@
-# Hi 👋, I'm Daniel
-
-Frontend Developer 
-
-🌱 I’m currently learning in Platzi
-
-💬 Ask me about react js, mongo db, express, node js or any web technology that we can learn together :).
-
-📫 How to reach me danielvelardecupe@gmail.com
-
-📄 Know about my experiences https://www.linkedin.com/in/daniel-velarde-cupe-64314b163/
-
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">Full Stack Developer who love innovation</h3>
 
